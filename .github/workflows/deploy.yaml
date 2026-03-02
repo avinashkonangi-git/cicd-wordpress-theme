@@ -19,4 +19,4 @@ jobs:
           server: 103.191.209.67
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: admin.brightwebforge.com/wp-content/themes/cicd/ 
+          server-dir: / 
